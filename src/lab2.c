@@ -19,8 +19,8 @@ int run_lab2()
     s += a*sign;
     sign = -sign;
     i += 1;
-    printf("a = %f\n", a);
-    printf("s = %f\n", s);
+    //printf("a = %f\n", a);
+    //printf("s = %f\n", s);
  }
 // вывод результата
     printf("s = %f\n", s);
